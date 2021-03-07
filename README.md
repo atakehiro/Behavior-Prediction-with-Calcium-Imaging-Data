@@ -5,7 +5,7 @@
 
 ## 2. Image data (CNN + LSTM)
 
-reference
+Reference:
 CNN + LSTM - Pytorch [Train] https://www.kaggle.com/orkatz2/cnn-lstm-pytorch-train (Apache License 2.0)
 
 
