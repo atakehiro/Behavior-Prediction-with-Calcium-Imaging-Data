@@ -1,6 +1,6 @@
 # Behavior-Prediction-with-Calcium-Imaging-Data
 
-## 1. 50 region trace data (LSTM)
+## 1. 50 region trace data (MLP, LSTM, Self-Attention)
 
 ### Environment
 Anaconda
@@ -13,7 +13,7 @@ tifffile==2020.2.16
 
 ## 2. Image data (CNN + LSTM)
 
-#### Reference
+### Reference
 CNN + LSTM - Pytorch [Train] https://www.kaggle.com/orkatz2/cnn-lstm-pytorch-train (Apache License 2.0)
 
 ## Author
