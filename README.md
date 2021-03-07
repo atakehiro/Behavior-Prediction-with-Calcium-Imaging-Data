@@ -11,7 +11,7 @@ pytorch== 1.1.0_cuda9.0.176_cudnn7.5.1_0
 
 tifffile==2020.2.16
 
-## 2. Image data (CNN + LSTM)
+## 2. Image sequence data (CNN + LSTM)
 
 ### Reference
 CNN + LSTM - Pytorch [Train] https://www.kaggle.com/orkatz2/cnn-lstm-pytorch-train (Apache License 2.0)
