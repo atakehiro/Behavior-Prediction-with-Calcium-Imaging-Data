@@ -5,16 +5,19 @@
 #### Environment
 Anaconda
 Python 3.6
-pytorch== 1.1.0_cuda9.0.176_cudnn7.5.1_0
-tifffile==2020.2.16
+tensorflow-gpu==1.15.0
+keras==2.3.1
 
 ## 2. Image sequence data (CNN + LSTM)
 
 #### Environment
 Anaconda
 Python 3.6
-pytorch== 1.1.0_cuda9.0.176_cudnn7.5.1_0
+pytorch==1.7.0+cu92
 tifffile==2020.2.16
+opencv-python==4.4.0.46
+efficientnet_pytorch==0.6.3
+tqdm==4.40.2
 
 #### Reference
 CNN + LSTM - Pytorch [Train] https://www.kaggle.com/orkatz2/cnn-lstm-pytorch-train (Apache License 2.0)
