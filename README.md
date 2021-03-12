@@ -7,6 +7,7 @@ Anaconda
 Python 3.6
 tensorflow-gpu==1.15.0
 keras==2.3.1
+shap==0.36.0
 
 ## 2. Image sequence data (CNN + LSTM)
 
