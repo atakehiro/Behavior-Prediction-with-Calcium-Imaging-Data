@@ -8,6 +8,7 @@ Python 3.6
 tensorflow-gpu==1.15.0
 keras==2.3.1
 shap==0.36.0
+keras-self-attention==0.47.0
 
 ## 2. Image sequence data (CNN + LSTM)
 
@@ -17,7 +18,7 @@ Python 3.6
 pytorch==1.7.0+cu92
 tifffile==2020.2.16
 opencv-python==4.4.0.46
-efficientnet_pytorch==0.6.3
+efficientnet-pytorch==0.6.3
 tqdm==4.40.2
 
 #### Reference
