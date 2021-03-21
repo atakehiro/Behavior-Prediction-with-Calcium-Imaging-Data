@@ -33,7 +33,7 @@ opencv-python==4.4.0.46
 efficientnet-pytorch==0.6.3
 tqdm==4.40.2
 
-#### Reference
+### Reference
 CNN + LSTM - Pytorch [Train] https://www.kaggle.com/orkatz2/cnn-lstm-pytorch-train (Apache License 2.0)
 
 ## Author
