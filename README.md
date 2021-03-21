@@ -7,7 +7,7 @@
 
 <img src="doc/auc1.jpg" width="800" align="below">
 
-<img src="doc/vis1.jpg" width="800" align="below">
+<img src="doc/vis_1.jpg" width="800" align="below">
 
 #### Environment
 Anaconda
