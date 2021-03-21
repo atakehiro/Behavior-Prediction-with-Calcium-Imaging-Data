@@ -2,6 +2,13 @@
 
 ## 1. 50 region trace data (MLP, LSTM, Self-Attention)
 <img src="doc/abstract1.jpg" width="800" align="below">
+
+#### Result
+
+<img src="doc/auc1.jpg" width="800" align="below">
+
+<img src="doc/vis1.jpg" width="800" align="below">
+
 #### Environment
 Anaconda
 Python 3.6
