@@ -3,7 +3,7 @@
 ## 1. 50 region trace data (MLP, LSTM, Self-Attention)
 <img src="doc/abstract1.jpg" width="800" align="below">
 
-### Result
+### Result (LSTM)
 <img src="doc/result1.jpg" width="400" align="below">
 
 <img src="doc/vis_1.jpg" width="800" align="below">
