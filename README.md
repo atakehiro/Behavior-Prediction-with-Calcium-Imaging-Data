@@ -4,7 +4,6 @@
 <img src="doc/abstract1.jpg" width="800" align="below">
 
 ### Result
-
 <img src="doc/result1.jpg" width="400" align="below">
 
 <img src="doc/vis_1.jpg" width="800" align="below">
@@ -21,10 +20,10 @@ keras-self-attention==0.47.0
 <img src="doc/abstract2.jpg" width="800" align="below">
 
 ### Result
-
 <img src="doc/result2.jpg" width="400" align="below">
 
 <img src="doc/vis_2.jpg" width="400" align="below">
+
 ### Environment
 Anaconda
 Python 3.6
