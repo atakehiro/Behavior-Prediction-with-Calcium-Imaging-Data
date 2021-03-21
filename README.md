@@ -24,7 +24,7 @@ keras-self-attention==0.47.0
 
 <img src="doc/result2.jpg" width="400" align="below">
 
-<img src="doc/vis_2.jpg" width="800" align="below">
+<img src="doc/vis_2.jpg" width="400" align="below">
 ### Environment
 Anaconda
 Python 3.6
