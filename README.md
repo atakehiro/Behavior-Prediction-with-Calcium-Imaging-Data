@@ -5,7 +5,7 @@
 
 #### Result
 
-<img src="doc/auc1.jpg" width="800" align="below">
+<img src="doc/result1.jpg" width="800" align="below">
 
 <img src="doc/vis_1.jpg" width="800" align="below">
 
