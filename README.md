@@ -1,7 +1,7 @@
 # Behavior-Prediction-with-Calcium-Imaging-Data
 
 ## 1. 50 region trace data (MLP, LSTM, Self-Attention)
-<img src="doc/abstract1.jpeg" width="800" align="below">
+<img src="doc/abstract1.jpg" width="800" align="below">
 #### Environment
 Anaconda
 Python 3.6
