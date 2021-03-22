@@ -6,6 +6,7 @@
 ### Result (LSTM)
 <img src="doc/result1.jpg" width="400" align="below">
 
+### SHAP Value (LSTM)
 <img src="doc/vis_1.jpg" width="800" align="below">
 
 ### Environment
@@ -22,6 +23,7 @@ keras-self-attention==0.47.0
 ### Result
 <img src="doc/result2.jpg" width="400" align="below">
 
+### Cut-Out Importance
 <img src="doc/vis_2.jpg" width="400" align="below">
 
 ### Environment
