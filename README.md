@@ -44,7 +44,9 @@ Takehiro Ajioka
 E-mail:1790651m@stu.kobe-u.ac.jp
 
 ## Publication
-Takehiro Ajioka, Nobuhiro Nakai, Toru Takumi, *The 44th Annual Meeting of the Japan Neuroscience Society (The 1st CJK International Meeting)*, Prediction of Mouse Behavior with Deep Learning, 2021
+
+Takehiro Ajioka, Nobuhiro Nakai, Toru Takumi, 2021, Prediction of Mouse Behavior with Deep Learning, *The 44th Annual Meeting of the Japan Neuroscience Society (The 1st CJK International Meeting)*
+
 ## Affiliation
 
 Department of Physiology, Kobe University School of Medicine
