@@ -38,6 +38,10 @@ tqdm==4.40.2
 ### Reference
 CNN + LSTM - Pytorch [Train] https://www.kaggle.com/orkatz2/cnn-lstm-pytorch-train (Apache License 2.0)
 
+## Publication
+
+Takehiro Ajioka, Nobuhiro Nakai, Toru Takumi, 2021, Prediction of Mouse Behavior with Deep Learning, *The 44th Annual Meeting of the Japan Neuroscience Society (The 1st CJK International Meeting)*
+
 ## Author
 Takehiro Ajioka
 
@@ -48,8 +52,3 @@ E-mail:1790651m@stu.kobe-u.ac.jp
 Department of Physiology, Kobe University School of Medicine
 
 神戸大学医学研究科　生理学分野
-
-## Publication
-
-Takehiro Ajioka, Nobuhiro Nakai, Toru Takumi, 2021, Prediction of Mouse Behavior with Deep Learning, *The 44th Annual Meeting of the Japan Neuroscience Society (The 1st CJK International Meeting)*
-
