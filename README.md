@@ -18,7 +18,7 @@ shap==0.36.0
 keras-self-attention==0.47.0
 
 ### Reference
-Kerasで多変量LSTM https://qiita.com/tizuo/items/b9af70e8cdc7fb69397f
+「Kerasで多変量LSTM」 (https://qiita.com/tizuo/items/b9af70e8cdc7fb69397f)
 ___
 
 ## 2. Image sequence data (CNN + LSTM)
