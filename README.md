@@ -19,6 +19,7 @@ keras-self-attention==0.47.0
 
 ### Reference
 「Kerasで多変量LSTM」 (https://qiita.com/tizuo/items/b9af70e8cdc7fb69397f)
+https://github.com/tizuo/keras (GPL-3.0 License)
 ___
 
 ## 2. Image sequence data (CNN + LSTM)
