@@ -1,6 +1,6 @@
 # Behavior-Prediction-with-Calcium-Imaging-Data
 
-## 1. 50 region trace data (MLP, LSTM, Self-Attention)
+## 1. 50 region trace data (MLP, 1DCNN, LSTM, Self-Attention)
 <img src="doc/abstract1.jpg" width="800" align="below">
 
 ### Result (LSTM)
